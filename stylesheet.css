@@ -42,3 +42,7 @@
           color-stop(80%, rgba(255, 0, 255, 1)),
           color-stop(100%, rgba(255, 0, 0, 1)));
 }
+
+#iframePad {
+  margin: 10px;
+}
